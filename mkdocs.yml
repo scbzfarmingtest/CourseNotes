@@ -1,0 +1,7 @@
+site_name: SCBZ's Course Notes
+site_url: https://scbzfarmingtest.github.io/course_notes
+nav:
+  - Home: index.md
+  - From Scratch: from_scratch.md
+  - Credits: credits.md
+theme: mkdocs
